@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\kerem\\\\RiderProjects\\\\CodeReviews.Console.Calculator\\\\Kerem.Calculator\" log --oneline -10)"
+    ]
+  }
+}
